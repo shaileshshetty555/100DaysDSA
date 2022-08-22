@@ -1,4 +1,4 @@
-Peak element
+Peak element.  ---- https://practice.geeksforgeeks.org/problems/peak-element/1
 EasyAccuracy: 48.41%Submissions: 100k+Points: 2
 An element is called a peak element if its value is not smaller than the value of its adjacent elements(if they exists).
 Given an array arr[] of size N, Return the index of any one of its peak elements.
